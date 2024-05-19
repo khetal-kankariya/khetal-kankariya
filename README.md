@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Know:
+## I Know:
 [![Web Dev](https://skillicons.dev/icons?i=js,ts,svelte,react,tailwind,astro,threejs,html,sass,css)](https://github.com/khetal-kankariya)
 <br>
 <!--[![Python Web Frameowrks](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
@@ -15,7 +15,7 @@
 <br>
 [![Code Editors](https://skillicons.dev/icons?i=vscode,sublime,neovim)](https://github.com/khetal-kankariya)
 
-## Learning:
+## I am Learning:
 [![Web App for desktop](https://skillicons.dev/icons?i=tauri,electron)](https://github.com/khetal-kankariya)
 <br>
 [![android dev](https://skillicons.dev/icons?i=flutter,kotlin,dart)](https://github.com/khetal-kankariya)
