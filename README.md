@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 ## I Know:
-[![Web Dev](https://skillicons.dev/icons?i=js,ts,svelte,react,tailwind,astro,threejs,html,sass,css)](https://github.com/khetal-kankariya)
+[![Web Dev](https://skillicons.dev/icons?i=js,ts,svelte,react,nextjs,tailwind,astro,threejs,html,sass,css)](https://github.com/khetal-kankariya)
 <br>
-<!--[![Python Web Frameowrks](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
-<br>-->
 [![Database](https://skillicons.dev/icons?i=firebase,prisma,mysql,postgres,sqlite,mongodb,express)](https://github.com/khetal-kankariya)
 <br>
 [![Nodejs](https://skillicons.dev/icons?i=nodejs,bun,npm,pnpm)](https://github.com/khetal-kankariya)
