@@ -18,7 +18,7 @@
 <br>
 [![android dev](https://skillicons.dev/icons?i=flutter,kotlin,dart)](https://github.com/khetal-kankariya)
 <br>
-[![programming](https://skillicons.dev/icons?i=rust,go,zig,ocaml,haskell)](https://github.com/khetal-kankariya)
+[![programming](https://skillicons.dev/icons?i=rust,go,php,zig,)](https://github.com/khetal-kankariya)
 
 
 <!--
